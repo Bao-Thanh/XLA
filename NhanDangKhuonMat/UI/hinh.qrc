@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="background">
+    <file>img/hcmute.png</file>
+    <file>img/white.png</file>
+    <file>img/cong-nghe-nhan-dien-khuon-mat-1.jpg</file>
+  </qresource>
+</RCC>
